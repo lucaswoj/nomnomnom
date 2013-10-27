@@ -21,6 +21,7 @@ Future features may include
  - Suggesting alternate recipies
  - Having a real backend
  - Having a mobile app
+ - Converting between weight/volumne units by individual ingredients
 
 ### Installation
 
