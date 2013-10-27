@@ -19,7 +19,12 @@ Future features may include
 
 ### Installation
 
-Simply drag this link to your bookmarks bar: [nomnomnom](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://raw.github.com/lucaswoj/nomnomnom/master/dist/nomnomnom.js';})();).
+You must create a browser bookmark to
+```
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://raw.github.com/lucaswoj/nomnomnom/master/dist/nomnomnom.js';})();)
+```
+
+*Unfortuantely, I can't embed the bookmarklet directly in this README.md because of GitHub's security model*
 
 ### Build Instructions
 
@@ -32,4 +37,7 @@ Testing the bookmarklet off your local development copy requires running a stati
 ```
 http-server . -c-1
 ```
-If you run your http server on the project root and port `8080`, you can use this development bookmarklet: [nomnomnom dev](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://localhost:8080/dist/nomnomnom.js';})();)
+If you run your http server on the project root and port `8080`, you can use this development bookmarklet
+```
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://localhost:8080/dist/nomnomnom.js';})();)
+```
