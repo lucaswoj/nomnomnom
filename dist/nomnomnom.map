@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "nomnomnom.js",
+  "sourceRoot": "..",
+  "sources": [
+    "nomnomnom.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,MAAA;;CAAA,CAAA,CAAU,IAAV,EAAW;CACA,EAAT,CAAa,IAAL,GAAR,EAA0B;CAD5B,EAAU;;CAAV,CAGA,KAAA,0DAAA;;CAHA,CAKA,CAAA;;CALA,CAOM,CAAG;CAEP;;CAAA,EAAiB,CAAjB,EAAC,GAAiB,KAAlB;CACE,IAAA,KAAA;;CAAA,EAAQ,CAAA,CAAR,CAAA;CACQ,EAAR,EAAA,EAAO,MAAP;CAFF,IAAiB;;CAAjB;;CATF;;CAAA,CAaA,CAAA,GAAsB,CAAf,OAAK,yBAA0B;CAbtC"
+}
