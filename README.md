@@ -16,6 +16,11 @@ Future features may include
  - Sharing recipes
  - Finding ingredient substitutions
  - Building a shopping list
+ - Integrating with Instacart
+ - Integrating with ingredient reviews
+ - Suggesting alternate recipies
+ - Having a real backend
+ - Having a mobile app
 
 ### Installation
 
