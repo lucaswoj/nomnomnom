@@ -2,7 +2,7 @@
 
 Nomnomnom is a bookmarklet to make online recipes more usable. It helps you remember what steps you've completed, adjust yield, convert units and more!
 
-[[http://i.imgur.com/jmvGzd1.png]]
+![nomnomnom screenshot](http://i.imgur.com/jmvGzd1.png)
 
 This script should works for any recipe that supports the schema.org semantic recipe markup, for example this recipe for [African sweet potato and peanut stew](http://www.therecipedepository.com/recipe/650/african-sweet-potato-and-peanut-stew)
 
@@ -23,12 +23,11 @@ You must create a browser bookmark to
 ```
 javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://raw.github.com/lucaswoj/nomnomnom/master/dist/nomnomnom.js';})();)
 ```
-
-*Unfortuantely, I can't embed the bookmarklet directly in this README.md because of GitHub's security model*
+*Unfortunately, I can't embed the bookmarklet directly in this README.md because of GitHub's security model*
 
 ### Build Instructions
 
-If you have CoffeeScript installed as a global npm package, all you need to do is run
+If you have CoffeeScript installed as a global npm package, building the project is as easy as
 ```
 coffee --watch --output dist nomnomnom.coffee --map
 ```
