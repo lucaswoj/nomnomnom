@@ -22,6 +22,7 @@ Future features may include
  - Having a real backend
  - Having a mobile app
  - Converting between weight/volumne units by individual ingredients
+ - Building a semantic understanding of the actions in each step, dependencies on other steps, required ingredients, etc
 
 ### Installation
 
